@@ -21,7 +21,7 @@ These scripts are contains
 
 ---
 
-## 🔹 1. Student Management System
+## 1. Student Management System
 
 ### 🧠 Description
 
@@ -117,6 +117,7 @@ check_palindrome()
 ### Sample Output
 1. Enter a string to check if it's a palindrome: Nurses run
 Yes, it is a palindrome.
+
 2.Enter a string to check if it's a palindrome: Hello
 No, it is not a palindrome.
 
