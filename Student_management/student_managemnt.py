@@ -17,9 +17,9 @@ def input_student_data():
     
     # Loop to collect marks for each course
     for i in range(num_courses):
-        # Get mark for each course and convert to decimal number
-        mark = float(input(f"Enter mark for course {i+1}: "))
-        # Add the mark to our list
+    # Get mark for each course and convert to decimal number
+      mark = float(input(f"Enter mark for course {i+1}: "))
+    # Add the mark to our list
         marks.append(mark)
     
     # Return all the collected information
