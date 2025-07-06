@@ -75,7 +75,7 @@ def student_management():
 ```
 
 ### Sample Output
-
+```
 Enter the number of students: 1
 Enter student name: Sam
 Enter age for Sam: 20
@@ -89,8 +89,8 @@ Student: Sam
   Age: 20
   Marks: [75.0, 80.0, 85.0]
   Average Grade: 80.00
-------------------------------
-
+-------------------------------
+```
 ## 2. Palindrome Checker
 
 ### 🧠 Description
@@ -115,12 +115,13 @@ def check_palindrome():
 check_palindrome()
 ```
 ### Sample Output
+
+```
 1. Enter a string to check if it's a palindrome: Nurses run
 Yes, it is a palindrome.
-
 2.Enter a string to check if it's a palindrome: Hello
 No, it is not a palindrome.
-
+```
 
 
 
