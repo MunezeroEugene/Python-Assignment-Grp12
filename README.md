@@ -72,6 +72,7 @@ def student_management():
             'average': avg
         }
     display_student_data(student_data)
+
 ```
 
 ### Sample Output
@@ -90,6 +91,7 @@ Student: Sam
   Marks: [75.0, 80.0, 85.0]
   Average Grade: 80.00
 -------------------------------
+
 ```
 ## 2. Palindrome Checker
 
@@ -104,6 +106,7 @@ Checks if a user-entered string is a palindrome by removing spaces and ignoring 
 | `check_palindrome()` | Prompts for a string and checks palindrome status |
 
 ###  Codes
+
 ```python
 def check_palindrome():
     user_input = input("Enter a string to check if it's a palindrome: ")
@@ -121,6 +124,7 @@ check_palindrome()
 Yes, it is a palindrome.
 2.Enter a string to check if it's a palindrome: Hello
 No, it is not a palindrome.
+
 ```
 
 ### Team Members
