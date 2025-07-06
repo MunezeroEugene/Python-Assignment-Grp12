@@ -123,11 +123,11 @@ Yes, it is a palindrome.
 No, it is not a palindrome.
 ```
 
-### Tean Members
+### Team Members
 
 | Student ID | Names |
 |---------|---------|
-| 26851 | Samillah Mutoni |
+| 26851 | Mutoni Samillah |
 | 24768 | Ndacyayisenga Herve |
 | 26627 | Ruhanika Alex |
 | 26509 | Munezero Eugene |
