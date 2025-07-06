@@ -123,6 +123,15 @@ Yes, it is a palindrome.
 No, it is not a palindrome.
 ```
 
+### Tean Members
 
+| Student ID | Names |
+|---------|---------|
+| 26851 | Samillah Mutoni |
+| 24768 | Ndacyayisenga Herve |
+| 26627 | Ruhanika Alex |
+| 26509 | Munezero Eugene |
+| 25915 | Shema Hubert |
+| 26240 | Nziza Benjamin |
 
 
