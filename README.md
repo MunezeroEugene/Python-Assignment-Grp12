@@ -127,7 +127,7 @@ No, it is not a palindrome.
 
 ```
 
-### Team Members
+### Group Members
 
 | Student ID | Names |
 |---------|---------|
